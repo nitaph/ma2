@@ -3,11 +3,7 @@
 ***
 
 ### Group members
-| Student name | Student ID |
-| --- | --- |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
+| #Nikolaos Tsatsampas | 172760 |
 
 ***
 
